@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VendorApp/VendorApp.iml" filepath="$PROJECT_DIR$/VendorApp/VendorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendorApp-android/VendorApp-android.iml" filepath="$PROJECT_DIR$/VendorApp-android/VendorApp-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendorApp-desktop/VendorApp-desktop.iml" filepath="$PROJECT_DIR$/VendorApp-desktop/VendorApp-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendorApp-html/VendorApp-html.iml" filepath="$PROJECT_DIR$/VendorApp-html/VendorApp-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VendorApp-robovm/VendorApp-robovm.iml" filepath="$PROJECT_DIR$/VendorApp-robovm/VendorApp-robovm.iml" />
+    </modules>
+  </component>
+</project>
+

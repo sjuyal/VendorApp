@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="32" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="set1" tilewidth="16" tileheight="16">
+  <image source="japhouse.png" width="256" height="1632"/>
+  <tile id="80">
+   <properties>
+    <property name="grass" value=""/>
+   </properties>
+  </tile>
+  <tile id="121">
+   <properties>
+    <property name="path" value=""/>
+   </properties>
+  </tile>
+  <tile id="648">
+   <properties>
+    <property name="red" value=""/>
+   </properties>
+  </tile>
+  <tile id="695">
+   <properties>
+    <property name="green" value=""/>
+   </properties>
+  </tile>
+  <tile id="708">
+   <properties>
+    <property name="src" value=""/>
+   </properties>
+  </tile>
+  <tile id="1597">
+   <properties>
+    <property name="source" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1633" name="set2" tilewidth="16" tileheight="16">
+  <image source="set.jpg" width="225" height="225"/>
+  <tile id="124">
+   <properties>
+    <property name="seats" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1829" name="tile3" tilewidth="16" tileheight="16">
+  <image source="20130726_154647.jpg" width="3264" height="2448"/>
+  <tile id="17859">
+   <properties>
+    <property name="testgreen" value=""/>
+   </properties>
+  </tile>
+  <tile id="21104">
+   <properties>
+    <property name="dest" value=""/>
+   </properties>
+  </tile>
+  <tile id="27097">
+   <properties>
+    <property name="white2" value=""/>
+   </properties>
+  </tile>
+  <tile id="29948">
+   <properties>
+    <property name="final" value=""/>
+   </properties>
+  </tile>
+  <tile id="30916">
+   <properties>
+    <property name="green2" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="33041" name="tile4" tilewidth="16" tileheight="16">
+  <image source="5z1KX.png" width="736" height="672"/>
+  <tile id="47">
+   <properties>
+    <property name="destfinal" value=""/>
+   </properties>
+  </tile>
+  <tile id="497">
+   <properties>
+    <property name="white" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0sENgCAQRNE92Z/t2AAVaTectBAlkZig4GLAYPyHPRCGkUe0nYjdZzQikznWfgaJ792dTWVcbyqv7b7aD7vDzNWZeVsvEX9s7+5sKqP1P/l22B1m/Nrl/jya99fmcqdWb+lu/O3fET9+/Phr+fuPDX78+PHjx48fP378+PHjP9v+PNo3KvUvvdFbuht/+3fEjx8//tzuFa5Sc2A=
+  </data>
+ </layer>
+</map>
